@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '6144'
     url: http://www.gutenberg.org/2009/agents/6144
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15598#Advis-de-la-deffaicte-des-Anglois-et-autres-heretiquesvenuz-en-Bretaigne-pour-le-Roy-de-Navar_
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2005-04-09'
 gutenberg_type: Text
