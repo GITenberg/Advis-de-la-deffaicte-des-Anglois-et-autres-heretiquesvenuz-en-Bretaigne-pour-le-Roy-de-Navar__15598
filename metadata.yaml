@@ -1,0 +1,30 @@
+_repo: Advis-de-la-deffaicte-des-Anglois-et-autres-heretiquesvenuz-en-Bretaigne-pour-le-Roy-de-Navar__15598
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sainct Maixant, M.
+    alias: Maixant, M. Sainct
+    gutenberg_agent_id: '6144'
+    url: http://www.gutenberg.org/2009/agents/6144
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2005-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15598'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brittany (France) -- Boundaries -- History -- Early works to 1800'
+- !lcsh 'Mercoeur, Philippe Emmanuel de Lorraine, duc de, 1558-1602'
+- !lcc 'DC'
+- !lcsh 'Brittany (France) -- History -- Sources'
+title: 'Advis de la deffaicte des Anglois et autres heretiques
+
+  venuz en Bretaigne, pour le Roy de Navarre, pres Chasteau-bourg.'
+url: http://www.gutenberg.org/ebooks/15598
